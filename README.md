@@ -48,11 +48,12 @@ http://localhost:8080
 ---
 
 ## Folder Structure:
-
+```
 /public         - Static files
 /views          - EJS templates (index.ejs, new.ejs, edit.ejs, show.ejs)
 index.js        - Main application file
 package.json    - Project configuration
+```
 
 ---
 
@@ -73,10 +74,10 @@ package.json    - Project configuration
 ## Learning Goals:
 
 This project helped me understand:
-*How RESTful APIs work with Express.js
-*Handling form data with express.urlencoded()
-*Using method-override to enable PUT/PATCH/DELETE via forms
-*Basic template rendering with EJS
+* How RESTful APIs work with Express.js
+* Handling form data with express.urlencoded()
+* Using method-override to enable PUT/PATCH/DELETE via forms
+* Basic template rendering with EJS
 
 
 
